@@ -1,0 +1,143 @@
+{   "audio":"audios/Tecno audio.mp3",
+    "modelo":"modelos/combina2.glb",
+    "fondo":"rgb(10,20,50)",
+    "data" :
+        [
+          {
+               "tiempo":"00:00",
+               "duracion":0  ,
+               "camara":[-13,5,10],
+               "target":[-20,5,12],
+               "nombre":"Vista Inicial"
+          },
+          {
+              "tiempo":"00:01 ",
+              "duracion":10000,
+              "camara":[-19,5,14],
+              "target":[-35,2,15],
+              "nombre":"Primer plano habitacion"
+         },
+         {
+             "tiempo":"00:08",
+             "duracion":10000,
+             "camara":[-22,5,14],
+             "target":[-35,6,6],
+             "nombre":"Vista Silla"
+        },
+        {
+            "tiempo":"00:16 ",
+            "duracion":10000,
+            "camara":[-21,5,14] ,
+            "target":[-35,6,20],
+            "nombre":"Vista habitación"
+       },
+       {
+           "tiempo":"00:25",
+           "duracion":10000,
+           "camara":[-23,6,23],
+           "target":[-40,3,30],
+           "nombre":"Vista a la chimenea"
+      },
+      {
+          "tiempo":"00:34",
+          "duracion":10000,
+          "camara":[-25,5,22],
+          "target":[-40,8,21],
+          "nombre":"Vista a los gorriones"
+      },
+      {
+         "tiempo":"00:43",
+         "duracion":10000,
+         "camara":[-30,6,22],
+         "target":[-40,8,23],
+         "nombre":"Plano de los gorriones"
+    }   ,
+    {
+        "tiempo":"00:52",
+        "duracion":10000,
+        "camara":[-35,6,14],
+        "target":[-45,8,27],
+        "nombre":"Rodea de los gorriones"
+   } ,
+   {
+       "tiempo":"01:01",
+       "duracion":10000,
+       "camara":[-40,7,16],
+       "target":[-30,7,-15],
+       "nombre":"Plano Biblioteca"
+  },
+  {
+      "tiempo":"01:10",
+      "duracion":10000,
+      "camara":[-40,9,15],
+      "target":[-30,9,-20],
+      "nombre":"Acercamiento Biblioteca"
+ },
+ {
+     "tiempo":"01:19",
+     "duracion":10000,
+     "camara":[-41,8,13],
+     "target":[-30,1,-20],
+     "nombre":"Lectura de Biblioteca"
+} ,
+{
+    "tiempo":"01:28",
+    "duracion":10000,
+    "camara":[-42,7,16],
+    "target":[-30,5,10],
+    "nombre":"Reposicionamiento"
+} ,
+{
+    "tiempo":"01:37",
+    "duracion":10000,
+    "camara":[-35,5,14],
+    "target":[-24,5,15],
+    "nombre":"Lectura de  habitacion"
+} ,
+{
+    "tiempo":"01:46",
+    "duracion":10000,
+    "camara":[-34,4,21],
+    "target":[-24,3,15],
+    "nombre":"Plano de juguetes"
+},
+{
+    "tiempo":"01:55",
+    "duracion":10000,
+    "camara":[-26,4,22.5],
+    "target":[-35,3,12],
+    "nombre":"Plano de tortuga"
+},
+{
+    "tiempo":"02:04",
+    "duracion":10000,
+    "camara":[-20,6,26],
+    "target":[10,6,8],
+    "nombre":"Plano Coraline"
+},
+{
+    "tiempo":"02:13",
+    "duracion":10000,
+    "camara":[-18,7,25],
+    "target":[10,7,10],
+    "nombre":"Plano Coraline FINAL"
+},
+{
+    "tiempo":"02:20",
+    "duracion":10000,
+    "camara":[0,7,25],
+    "target":[10,7,10],
+    "nombre":"Plano Coraline FINAL"
+}
+
+
+
+
+
+
+
+
+
+
+      ]
+}
