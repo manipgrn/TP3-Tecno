@@ -1,5 +1,5 @@
 Alumnos:
 
-Martina Pellegrino
-Matías A. Loayza
-Lautaro Gómez
+Martina Pellegrino,
+ Matías A. Loayza,
+ Lautaro Gómez
